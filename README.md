@@ -1,10 +1,27 @@
 <h1 align="center">Hi 👋, I’m Amass</h1>
-<h3 align="center">
-Computer Science Student • Software Engineer • Cybersecurity Enthusiast • Tech Content Creator • Community Builder
-</h3>
 
 <p align="center">
-I build secure and scalable software, create educational tech content, and grow developer communities through <b>AmassTechHub</b>.
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-0b1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech%20Content%20Creator-0b1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Community%20Builder-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  I build <b>secure & scalable</b> software, create <b>educational tech content</b>, and grow developer communities through <b>AmassTechHub</b>.
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/kvng_amass">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/kvng_amass">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@AmassTechHub">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -12,57 +29,59 @@ I build secure and scalable software, create educational tech content, and grow 
 ## 🧭 About Me
 
 I’m a **Computer Science student** passionate about **software engineering**, **cybersecurity**, and **tech education**.  
-I enjoy breaking down complex technical ideas into simple, practical knowledge whether through **code, content, or community leadership**.
+I love turning complex technical ideas into simple, practical knowledge — through **code**, **content**, and **community leadership**.
 
-My work lives at the intersection of:
-- 💻 **Building digital products**
-- 🔐 **Security-conscious development**
-- 🎥 **Tech content creation & storytelling**
-- 👥 **Community growth and leadership**
+**My core lanes:**
+- 💻 Building digital products (web & systems)
+- 🔐 Security-conscious development
+- 🎥 Tech content creation & storytelling
+- 👥 Community growth and leadership
 
-Based in **Ghana**, I collaborate globally and continuously evolve by learning, building, and sharing.
+📍 Based in **Ghana** — collaborating globally, learning daily, shipping consistently.
 
 ---
 
 ## 🔍 What I’m Currently Working On
-
-- Developing web applications using **React, Next.js, Node.js**, and modern backend services  
+- Web apps using **React, Next.js, Node.js**, and modern backend services  
 - Applying **secure coding principles** to real-world projects  
-- Creating **tech-focused content** (tutorials, explainers, reviews, and insights)  
-- Growing **AmassTechHub** as a learning and creator-focused tech brand  
+- Creating tech content: **tutorials, explainers, reviews, and dev insights**  
+- Growing **AmassTechHub** as a creator + developer-focused tech brand  
+
+---
+
+## 🔐 Cybersecurity Focus (Growing Interest)
+I’m actively building skills in cybersecurity with a focus on:
+- Secure application development  
+- Web vulnerabilities & threat awareness  
+- Authentication, authorization & access control  
+- Data protection + security best practices in modern systems  
+
+**Goal:** build products that are **functional, scalable, and secure-by-design**.
 
 ---
 
 ## 🎥 Tech Content Creator
 
-As a tech content creator, I:
-- Create educational content around **software development, tools, and tech concepts**  
-- Share learning journeys, tutorials, and tech insights for students and beginners  
-- Bridge the gap between **theory and real-world application**  
-- Use media to make technology **approachable, practical, and engaging**
+<p align="center">
+  <img src="https://img.shields.io/badge/Creator%20Toolkit-111827?style=for-the-badge&labelColor=0b1220" />
+  <img src="https://img.shields.io/badge/Tutorials%20%26%20Guides-0b1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Breakdowns-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dev%20Insights-0b1220?style=for-the-badge" />
+</p>
 
-Platforms I create on:
-- YouTube (AmassTechHub)  
-- Instagram & X (tech insights, updates, and community engagement)
+### 🔥 Content I create
+- ✅ Tutorials & beginner-friendly walkthroughs  
+- ✅ Coding + tool breakdowns (React/Next/Firebase/etc.)  
+- ✅ Project build series (from idea → product)  
+- ✅ Tech commentary, productivity & dev growth
 
----
-
-## 🔐 Cybersecurity Focus (Growing Interest)
-
-Alongside development, I am actively building skills in **cybersecurity**, with interest in:
-
-- Secure application development  
-- Web vulnerabilities & threat awareness  
-- Authentication, authorization, and access control  
-- Protecting user data and application infrastructure  
-- Security best practices in modern web systems  
-
-My long-term goal is to **build systems that are functional, scalable, and secure by design**.
+### 📌 Where I publish
+- ▶️ YouTube: **AmassTechHub**  
+- 📸 Instagram & 𝕏: **@kvng_amass**
 
 ---
 
 ## 🧠 Currently Learning
-
 - Advanced **JavaScript & TypeScript** patterns  
 - Backend architecture & database design  
 - **Cybersecurity fundamentals** (OWASP concepts, secure auth flows)  
@@ -71,7 +90,6 @@ My long-term goal is to **build systems that are functional, scalable, and secur
 ---
 
 ## 🤝 Open To
-
 - Open-source collaboration  
 - Software engineering & frontend roles  
 - Cybersecurity learning opportunities  
@@ -80,79 +98,100 @@ My long-term goal is to **build systems that are functional, scalable, and secur
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://instagram.com/kvng_amass">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://x.com/kvng_amass">
-  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
-</a>
-<a href="https://youtube.com/@AmassTechHub">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### 🧩 Languages
-- JavaScript (ES6+), TypeScript  
-- Python, C++  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+
+<br/>
 
 ### 🌐 Frontend
-- React, Next.js  
-- Tailwind CSS, Vite  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform)
+
+<br/>
 
 ### 🔧 Backend & Databases
-- Node.js  
-- Firebase, Supabase  
-- PostgreSQL, MongoDB  
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+<br/>
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
+![PNPM](https://img.shields.io/badge/PNPM-4A4A4A?style=for-the-badge&logo=pnpm)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+
+<br/>
+
+### 🎨 Media & Design (Visual Creator Stack)
+<p>
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<br/>
 
 ### 🔐 Security (Learning & Practice)
-- Secure authentication flows  
-- Input validation & access control  
-- Web security awareness (OWASP Top 10 concepts)
-
-### 🎨 Media & Design
-- Adobe Photoshop  
-- Adobe Premiere Pro  
-- After Effects  
-- Figma  
-
-### 🛠 Tools & Workflow
-- Git & GitHub  
-- VS Code  
-- Linux & Windows environments  
+<p align="left">
+  <img src="https://img.shields.io/badge/OWASP%20Basics-111827?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure%20Auth%20Flows-0b1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Input%20Validation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Access%20Control-0b1220?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=AmassTechHub&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AmassTechHub&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🏆 Highlights & Leadership
-
 - 🏅 **Best Student Blogger / Content Creator (Computer Science)**  
-- 🧠 Assistant Web & App Head — Media Department  
+- 🧠 Web & App Head — Media Department  
 - 🎥 Founder & Lead Creator at **AmassTechHub**  
 - 👥 Active leader in student tech communities  
 
 ---
 
 <p align="center">
-<i>
-“I’ve always wanted to be part of technology — the options were either I watch it happen or be part of it and so I couldn't settle for less.”
-</i>
+  <i>
+  “I’ve always wanted to be part of technology — the options were either I watch it happen or be part of it and so I couldn't settle for less.”
+  </i>
 </p>
