@@ -160,11 +160,12 @@ I’m actively building skills in cybersecurity with a focus on:
 <br/>
 
 ### 🔐 Security (Learning & Practice)
+
 <p align="left">
-  <img src="https://img.shields.io/badge/OWASP%20Basics-111827?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secure%20Auth%20Flows-0b1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Input%20Validation-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Access%20Control-0b1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure%20Coding-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Security-0b1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Input%20Validation-0b1220?style=for-the-badge" />
 </p>
 
 ---
