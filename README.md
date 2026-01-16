@@ -29,7 +29,7 @@
 ## 🧭 About Me
 
 I’m a **Computer Science student** passionate about **software engineering**, **cybersecurity**, and **tech education**.  
-I love turning complex technical ideas into simple, practical knowledge — through **code**, **content**, and **community leadership**.
+I currently serve as the **Vice President of the Computer Science Society (CSS)**, where I help lead student initiatives, tech programs, and community engagement.
 
 **My core lanes:**
 - 💻 Building digital products (web & systems)
@@ -50,11 +50,11 @@ I love turning complex technical ideas into simple, practical knowledge — thro
 ---
 
 ## 🔐 Cybersecurity Focus (Growing Interest)
-I’m actively building skills in cybersecurity with a focus on:
+I’m actively building skills in cybersecurity with focus on:
 - Secure application development  
 - Web vulnerabilities & threat awareness  
 - Authentication, authorization & access control  
-- Data protection + security best practices in modern systems  
+- Data protection & security best practices  
 
 **Goal:** build products that are **functional, scalable, and secure-by-design**.
 
@@ -70,10 +70,10 @@ I’m actively building skills in cybersecurity with a focus on:
 </p>
 
 ### 🔥 Content I create
-- ✅ Tutorials & beginner-friendly walkthroughs  
-- ✅ Coding + tool breakdowns (React/Next/Firebase/etc.)  
-- ✅ Project build series (from idea → product)  
-- ✅ Tech commentary, productivity & dev growth
+- Tutorials & beginner-friendly walkthroughs  
+- Coding + tool breakdowns (React / Next / Firebase)  
+- Project build series (idea → product)  
+- Tech commentary & developer growth content  
 
 ### 📌 Where I publish
 - ▶️ YouTube: **AmassTechHub**  
@@ -85,7 +85,7 @@ I’m actively building skills in cybersecurity with a focus on:
 - Advanced **JavaScript & TypeScript** patterns  
 - Backend architecture & database design  
 - **Cybersecurity fundamentals** (OWASP concepts, secure auth flows)  
-- DevOps basics and system reliability  
+- DevOps basics & system reliability  
 
 ---
 
@@ -93,8 +93,8 @@ I’m actively building skills in cybersecurity with a focus on:
 - Open-source collaboration  
 - Software engineering & frontend roles  
 - Cybersecurity learning opportunities  
-- Tech education, content, and community initiatives  
-- Mentorship, collaboration, and knowledge exchange  
+- Tech education & community initiatives  
+- Mentorship and collaboration  
 
 ---
 
@@ -116,9 +116,6 @@ I’m actively building skills in cybersecurity with a focus on:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform)
 
 <br/>
 
@@ -126,11 +123,8 @@ I’m actively building skills in cybersecurity with a focus on:
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 
 <br/>
 
@@ -138,56 +132,37 @@ I’m actively building skills in cybersecurity with a focus on:
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
-![PNPM](https://img.shields.io/badge/PNPM-4A4A4A?style=for-the-badge&logo=pnpm)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 <br/>
 
-### 🎨 Media & Design (Visual Creator Stack)
-<p>
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-<br/>
-
-### 🔐 Security (Learning & Practice)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Secure%20Coding-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Security-0b1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Input%20Validation-0b1220?style=for-the-badge" />
-</p>
+### 🎨 Media & Design
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img src="https://streak-stats.demolab.com?user=AmassTechHub&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=AmassTechHub&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🏆 Highlights & Leadership
 - 🏅 **Best Student Blogger / Content Creator (Computer Science)**  
-- 🧠 Web & App Head — Media Department  
+- 🎓 **Vice President — Computer Science Society (CSS)**  
 - 🎥 Founder & Lead Creator at **AmassTechHub**  
-- 👥 Active leader in student tech communities  
+- 👥 Student tech leader & community builder  
 
 ---
 
