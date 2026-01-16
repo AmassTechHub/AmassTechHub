@@ -12,7 +12,7 @@ I build secure and scalable software, create educational tech content, and grow 
 ## 🧭 About Me
 
 I’m a **Computer Science student** passionate about **software engineering**, **cybersecurity**, and **tech education**.  
-I enjoy breaking down complex technical ideas into simple, practical knowledge—whether through **code, content, or community leadership**.
+I enjoy breaking down complex technical ideas into simple, practical knowledge whether through **code, content, or community leadership**.
 
 My work lives at the intersection of:
 - 💻 **Building digital products**
