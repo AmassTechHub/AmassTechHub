@@ -173,12 +173,12 @@ I’m actively building skills in cybersecurity with a focus on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AmassTechHub&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=AmassTechHub&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
