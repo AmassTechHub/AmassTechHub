@@ -34,7 +34,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AmassTechHub&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7&sideNums=A855F7&currStreakNum=FFFFFF&sideLabels=8B8B8B)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmassTechHub&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7)](https://git.io/streak-stats)
 
 </div>
 
@@ -45,8 +45,11 @@
 ## 📊 GitHub Activity & Stats
 
 <div align="center">
-  
-![Amass's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Statistics)
+
+<a href="https://github.com/AmassTechHub">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
+</a>
 
 </div>
 
@@ -54,7 +57,7 @@
 
 ### 📈 Contribution Graph
 
-[![Amass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmassTechHub&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmassTechHub&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
@@ -64,8 +67,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&custom_title=💬%20Most%20Used%20Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmassTechHub&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmassTechHub&theme=tokyonight&hide_border=true&layout=donut&langs_count=6" alt="Language Distribution" />
 
 </div>
 
@@ -75,7 +78,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmassTechHub&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=AmassTechHub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -85,13 +88,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmassTechHub&theme=tokyonight" width="100%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmassTechHub&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmassTechHub&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmassTechHub&theme=tokyonight" width="49%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmassTechHub&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmassTechHub&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmassTechHub&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmassTechHub&theme=tokyonight" width="49%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmassTechHub&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmassTechHub&theme=tokyonight)
 
 </div>
 
@@ -110,7 +111,7 @@ I love turning complex technical ideas into simple, practical knowledge through 
 - 🎥 Tech content creation & storytelling
 - 👥 Community growth and leadership
 
-📍 Based in **Ghana**; collaborating globally, learning daily, shipping consistently.
+📍 Based in **Ghana** — collaborating globally, learning daily, shipping consistently.
 
 ---
 
