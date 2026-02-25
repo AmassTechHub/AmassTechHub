@@ -319,6 +319,6 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-A855F7?style=for-the-badge" />
 </p>
 
-**✨ Let's build something amazing together! ✨**
+**✨ Let's build something amazing together!**
 
 </div>
