@@ -110,7 +110,7 @@ I love turning complex technical ideas into simple, practical knowledge through 
 - 🎥 Tech content creation & storytelling
 - 👥 Community growth and leadership
 
-📍 Based in **Ghana** — collaborating globally, learning daily, shipping consistently.
+📍 Based in **Ghana**; collaborating globally, learning daily, shipping consistently.
 
 ---
 
