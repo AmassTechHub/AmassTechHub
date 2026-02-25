@@ -285,7 +285,11 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ## 🐍 Contribution Snake Animation
 
-![snake gif](https://raw.githubusercontent.com/AmassTechHub/AmassTechHub/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/AmassTechHub/AmassTechHub/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+<i>The snake eats all my contributions! 🐍</i>
+</p>
 
 ---
 
