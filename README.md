@@ -29,7 +29,7 @@
 ## 🧭 About Me
 
 I’m a **Computer Science student** passionate about **software engineering**, **cybersecurity**, and **tech education**.  
-I love turning complex technical ideas into simple, practical knowledge — through **code**, **content**, and **community leadership**.
+I love turning complex technical ideas into simple, practical knowledge through **code**, **content**, and **community leadership**.
 
 🎓 I currently serve as the **Vice President of the Computer Science Society (CSS)**, supporting student initiatives, tech programs, and community growth.
 
