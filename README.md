@@ -46,10 +46,8 @@
 
 <div align="center">
 
-<a href="https://github.com/AmassTechHub">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -67,7 +65,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmassTechHub&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+nothing yet:)
 
 </div>
 
