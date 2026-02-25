@@ -46,7 +46,7 @@
 
 <div align="center">
   
-![Amass's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Statistics)
+[Amass's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Statistics)
 
 </div>
 
@@ -54,7 +54,7 @@
 
 ### 📈 Contribution Graph
 
-[![Amass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmassTechHub&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Amass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmassTechHub&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmassTechHub&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy](https://github-profile-trophy.vercel.app/?username=AmassTechHub&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
