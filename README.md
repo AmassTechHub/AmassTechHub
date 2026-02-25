@@ -63,22 +63,11 @@
 
 ---
 
-## 💻 Code Efficiency & Language Distribution
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmassTechHub&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmassTechHub&theme=tokyonight&hide_border=true&layout=donut&langs_count=6" alt="Language Distribution" />
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies: Achievements Unlocked
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmassTechHub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmassTechHub&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -88,11 +77,21 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmassTechHub&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmassTechHub&theme=tokyonight" alt="Profile Details" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmassTechHub&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmassTechHub&theme=tokyonight)
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmassTechHub&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmassTechHub&theme=tokyonight)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmassTechHub&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmassTechHub&theme=tokyonight" alt="Most Commit Language" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmassTechHub&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmassTechHub&theme=tokyonight" alt="Productive Time" />
 
 </div>
 
