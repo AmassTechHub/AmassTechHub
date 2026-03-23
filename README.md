@@ -34,7 +34,13 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AmassTechHub&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7)](https://git.io/streak-stats)
+### Hi, I'm Amass Tech Hub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amasstechhub&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/amasstechhub)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amasstechhub&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/amasstechhub)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amasstechhub&theme=tokyonight&hide_border=true)](https://github.com/amasstechhub)
 
 </div>
 
