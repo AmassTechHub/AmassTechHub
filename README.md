@@ -103,7 +103,6 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmassTechHub&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -178,7 +177,7 @@ I'm actively building skills in cybersecurity with a focus on:
 
 ## 🧠 Currently Learning
 
---javascript
+---javascript
 const currentFocus = {
   languages: ['Advanced JavaScript', 'TypeScript', 'Rust'],
   backend:   ['Node.js Architecture', 'Database Design', 'API Security'],
@@ -294,7 +293,6 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 ---
 
 ## 🐍 Contribution Snake Animation
-
 name: Generate Snake Animation
 
 on:
@@ -316,12 +314,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+  - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 <p align="center">
 <i>The snake eats all my contributions! 🐍</i>
