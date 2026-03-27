@@ -30,17 +30,18 @@
 
 ---
 
-## 🔥 Streak Stats: Keeping the Momentum Alive! 
+## 🔥 GitHub Stats & Streak
 
 <div align="center">
-  
-### Hi, I'm Amass Tech Hub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amasstechhub&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/amasstechhub)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amasstechhub&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/amasstechhub)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amasstechhub&theme=tokyonight&hide_border=true)](https://github.com/amasstechhub)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AmassTechHub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -48,17 +49,9 @@
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 Contribution Graph
 
 <div align="center">
-
-🤞
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmassTechHub&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
@@ -66,11 +59,17 @@
 
 ---
 
-## 🏆 GitHub Trophies: Achievements Unlocked
+## 🐍 Contribution Snake
 
 <div align="center">
 
-nothing yet:)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmassTechHub/AmassTechHub/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmassTechHub/AmassTechHub/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AmassTechHub/AmassTechHub/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<p><i>The snake eats all my contributions! 🐍</i></p>
 
 </div>
 
@@ -100,9 +99,19 @@ nothing yet:)
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmassTechHub&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🧭 About Me
 
-I'm a **Computer Science student** passionate about **software engineering**, **cybersecurity**, and **tech education**.  
+I'm a **Computer Science student** passionate about **software engineering**, **cybersecurity**, and **tech education**.
 I love turning complex technical ideas into simple, practical knowledge through **code**, **content**, and **community leadership**.
 
 🎓 I currently serve as the **Vice President of the Computer Science Society (CSS)**, supporting student initiatives, tech programs, and community growth.
@@ -121,10 +130,10 @@ I love turning complex technical ideas into simple, practical knowledge through 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🚀 Web apps using **React, Next.js, Node.js**, and modern backend services  
-- 🔒 Applying **secure coding principles** to real-world projects  
-- 📚 Creating tech content: **tutorials, explainers, reviews, and dev insights**  
-- 🌐 Growing **AmassTechHub** as a creator + developer-focused tech brand  
+- 🚀 Web apps using **React, Next.js, Node.js**, and modern backend services
+- 🔒 Applying **secure coding principles** to real-world projects
+- 📚 Creating tech content: **tutorials, explainers, reviews, and dev insights**
+- 🌐 Growing **AmassTechHub** as a creator + developer-focused tech brand
 - 🎓 Building projects that solve real problems for students & developers
 
 <br clear="right"/>
@@ -134,10 +143,11 @@ I love turning complex technical ideas into simple, practical knowledge through 
 ## 🔐 Cybersecurity Focus (Growing Interest)
 
 I'm actively building skills in cybersecurity with a focus on:
-- ✅ Secure application development  
-- ✅ Web vulnerabilities & threat awareness  
-- ✅ Authentication, authorization & access control  
-- ✅ Data protection + security best practices in modern systems  
+
+- ✅ Secure application development
+- ✅ Web vulnerabilities & threat awareness
+- ✅ Authentication, authorization & access control
+- ✅ Data protection + security best practices in modern systems
 
 **Goal:** build products that are **functional, scalable, and secure-by-design**.
 
@@ -155,13 +165,13 @@ I'm actively building skills in cybersecurity with a focus on:
 </div>
 
 ### 🔥 Content I create
-- ✅ Tutorials & beginner-friendly walkthroughs  
-- ✅ Coding + tool breakdowns (React/Next/Firebase/etc.)  
-- ✅ Project build series (from idea → product)  
+- ✅ Tutorials & beginner-friendly walkthroughs
+- ✅ Coding + tool breakdowns (React/Next/Firebase/etc.)
+- ✅ Project build series (from idea → product)
 - ✅ Tech commentary, productivity & dev growth
 
 ### 📌 Where I publish
-- ▶️ YouTube: **AmassTechHub**  
+- ▶️ YouTube: **AmassTechHub**
 - 📸 Instagram & 𝕏: **@kvng_amass**
 
 ---
@@ -171,16 +181,14 @@ I'm actively building skills in cybersecurity with a focus on:
 ```javascript
 const currentFocus = {
   languages: ['Advanced JavaScript', 'TypeScript', 'Rust'],
-  backend: ['Node.js Architecture', 'Database Design', 'API Security'],
-  security: ['OWASP Top 10', 'Secure Auth Flows', 'Penetration Testing'],
-  devops: ['Docker', 'CI/CD', 'Cloud Platforms'],
-  growth: ['System Design', 'Performance Optimization']
+  backend:   ['Node.js Architecture', 'Database Design', 'API Security'],
+  security:  ['OWASP Top 10', 'Secure Auth Flows', 'Penetration Testing'],
+  devops:    ['Docker', 'CI/CD', 'Cloud Platforms'],
+  growth:    ['System Design', 'Performance Optimization']
 };
 
 console.log('Learning never stops! 🚀');
-```
 
----
 
 ## 💻 Tech Stack
 
@@ -288,7 +296,33 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ## 🐍 Contribution Snake Animation
 
-![snake gif](https://github.com/AmassTechHub/AmassTechHub/blob/output/github-contribution-grid-snake-dark.svg)
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AmassTechHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <p align="center">
 <i>The snake eats all my contributions! 🐍</i>
