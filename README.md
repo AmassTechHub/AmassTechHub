@@ -178,7 +178,7 @@ I'm actively building skills in cybersecurity with a focus on:
 
 ## 🧠 Currently Learning
 
-```javascript
+--javascript
 const currentFocus = {
   languages: ['Advanced JavaScript', 'TypeScript', 'Rust'],
   backend:   ['Node.js Architecture', 'Database Design', 'API Security'],
@@ -188,7 +188,6 @@ const currentFocus = {
 };
 
 console.log('Learning never stops! 🚀');
-
 
 ## 💻 Tech Stack
 
