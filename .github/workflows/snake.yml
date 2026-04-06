@@ -1,45 +1,32 @@
+# Save this file as:
+# .github/workflows/snake.yml
+# in your AmassTechHub/AmassTechHub profile repo
+
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-  # Run on every push to main
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:           # allows manual trigger
   push:
-    branches:
-    - main
-
-permissions:
-  contents: write
+    branches: [main, master]
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # Checkout the repository
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      # Generate the snake animation
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github-light
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # Push the generated files to the output branch
+
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
