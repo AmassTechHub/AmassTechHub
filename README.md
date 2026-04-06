@@ -41,11 +41,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmassTechHub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AmassTechHub&theme=tokyonight&hide_border=true&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7)](https://git.io/streak-stats)
 
 </div>
 
-> 💡 **Daily commits keep the streak alive!** My goal: Code something meaningful every single day. One commit = one step closer to mastery.
+> 💡 **Daily commits keep the streak alive!** My goal: Code something meaningful every single day.
 
 ---
 
@@ -68,8 +68,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmassTechHub/AmassTechHub/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AmassTechHub/AmassTechHub/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<p><i>The snake eats all my contributions! 🐍</i></p>
 
 </div>
 
@@ -111,9 +109,8 @@
 ## 🧭 About Me
 
 I'm a **Computer Science student** passionate about **software engineering**, **cybersecurity**, and **tech education**.
-I love turning complex technical ideas into simple, practical knowledge through **code**, **content**, and **community leadership**.
 
-🎓 I currently serve as the **Vice President of the Computer Science Society (CSS)**, supporting student initiatives, tech programs, and community growth.
+🎓 **Vice President — Computer Science Society (CSS)**
 
 **My core lanes:**
 - 💻 Building digital products (web & systems)
@@ -127,26 +124,24 @@ I love turning complex technical ideas into simple, practical knowledge through 
 
 ## 🎯 What I'm Currently Working On
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🚀 Web apps using **React, Next.js, Node.js**, and modern backend services
+- 🚀 Web apps using **React, Next.js, Node.js**
 - 🔒 Applying **secure coding principles** to real-world projects
-- 📚 Creating tech content: **tutorials, explainers, reviews, and dev insights**
-- 🌐 Growing **AmassTechHub** as a creator + developer-focused tech brand
-- 🎓 Building projects that solve real problems for students & developers
+- 📚 Creating tech content: **tutorials, explainers, reviews**
+- 🌐 Growing **AmassTechHub** as a creator + developer brand
+- 🎓 Building projects that solve real problems for students
 
 <br clear="right"/>
 
 ---
 
-## 🔐 Cybersecurity Focus (Growing Interest)
-
-I'm actively building skills in cybersecurity with a focus on:
+## 🔐 Cybersecurity Focus
 
 - ✅ Secure application development
 - ✅ Web vulnerabilities & threat awareness
 - ✅ Authentication, authorization & access control
-- ✅ Data protection + security best practices in modern systems
+- ✅ Data protection + security best practices
 
 **Goal:** build products that are **functional, scalable, and secure-by-design**.
 
@@ -177,7 +172,7 @@ I'm actively building skills in cybersecurity with a focus on:
 
 ## 🧠 Currently Learning
 
----javascript
+```javascript
 const currentFocus = {
   languages: ['Advanced JavaScript', 'TypeScript', 'Rust'],
   backend:   ['Node.js Architecture', 'Database Design', 'API Security'],
@@ -187,6 +182,8 @@ const currentFocus = {
 };
 
 console.log('Learning never stops! 🚀');
+```
+
 
 ## 💻 Tech Stack
 
@@ -266,13 +263,13 @@ I'm open to:
 
 ---
 
-## 🏆 Highlights & Leadership
+## 🏅 Highlights
 
 <div align="center">
 
-🏅 **Best Student Blogger / Content Creator (Computer Science)**  
-🎓 **Vice President — Computer Science Society (CSS)**  
-🎥 **Founder & Lead Creator at AmassTechHub**  
+🏅 **Best Student Blogger / Content Creator (Computer Science)**
+🎓 **Vice President — Computer Science Society (CSS)**
+🎥 **Founder & Lead Creator at AmassTechHub**
 👥 **Active leader in student tech communities**
 
 </div>
