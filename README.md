@@ -34,14 +34,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmassTechHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmassTechHub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmassTechHub&theme=tokyonight&hide_border=true&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=AmassTechHub&theme=tokyonight&hide_border=true&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7" />
 
 </div>
 
